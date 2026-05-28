@@ -58,4 +58,4 @@ based on:
 - Cholesterol
 
 ## Live Demo
-- https://health-prediction-app.streamlit.app
+- https://healthpredictionapp-vgdq7rjbjdj6kogcq6gsvc.streamlit.app/
