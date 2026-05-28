@@ -56,3 +56,6 @@ based on:
 - Glucose
 - Haemoglobin
 - Cholesterol
+
+## Live Demo
+- https://health-prediction-app.streamlit.app
