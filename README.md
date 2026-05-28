@@ -21,6 +21,11 @@ The application allows users to:
 - Persistent Data Storage
 
 ---
+## Prediction Model
+
+The application uses a custom rule-based prediction model to generate possible health risk predictions based on blood test values including glucose, haemoglobin, and cholesterol.
+
+---
 
 ## Technologies Used
 - Python
